@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  ilacOdev
+
+  Created by Mehmet Tuna Arıkaya on 10.12.2024.
+  
+*/
+"app_title" = "İlaç Saatim";
+"morning" = "Sabah 🌅";
+"noon" = "Öğlen 🌞";
+"evening" = "Akşam 🌙";
+"last_used" = "En son kullanım: Sabah 🌅";
+"note" = "NOT: ";
+"note_detail" = "Lütfen doktorunuza danışmadan kullanmayınız.";
+"set_alarm" = "Diğer doz saati için alarm kur ⏱️";

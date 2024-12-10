@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  ilacOdev
+
+  Created by Mehmet Tuna Arıkaya on 10.12.2024.
+  
+*/
+"app_title" = "My Medication Times";
+"morning" = "Morning 🌅";
+"noon" = "Noon 🌞";
+"evening" = "Evening 🌙";
+"last_used" = "Last used: Morning 🌅";
+"note" = "NOTE: ";
+"note_detail" = "Please consult your doctor before use.";
+"set_alarm" = "Set an alarm for the next dose ⏱️";
